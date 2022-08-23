@@ -5,7 +5,7 @@ helm create le-app
 #############
 # tree le-app
 
-<< DIRECTORY_LE
+<<DIRECTORY_LE
 le-app/
 |-- Chart.yaml
 |-- charts
@@ -27,7 +27,7 @@ DIRECTORY_LE
 #############
 # cat Chart.yaml 
 
-<< CAT_CHART
+<<CAT_CHART
 apiVersion: v2
 name: le-app
 description: A Helm chart for Kubernetes
