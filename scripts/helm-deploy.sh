@@ -6,7 +6,7 @@ helm install le-app le-app/
 ###############
 # helm install le-app le-app/
 
-<<HELM_INSTALL
+<<'HELM_INSTALL'
 NAME: le-app
 LAST DEPLOYED: Tue Aug 23 14:59:17 2022
 NAMESPACE: default
@@ -23,7 +23,7 @@ HELM_INSTALL
 ###############
 # kubectl get  all
 
-<<K_GET_ALL
+<<'K_GET_ALL'
 NAME                          READY   STATUS    RESTARTS   AGE
 pod/le-app-6dcbf5b6b5-5bxld   1/1     Running   0          19s
 pod/le-app-6dcbf5b6b5-ts2zf   1/1     Running   0          19s
