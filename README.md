@@ -12,3 +12,5 @@ sudo apt-get install helm
 
 # helm scripts
 * helm-install.sh: To install the helm package on Debian/Ubuntu
+* helm-create.sh: To create a sample helm package for le-app
+* helm-deploy.sh: To deploy the le-app using helm chart
