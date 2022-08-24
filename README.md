@@ -1,6 +1,10 @@
 # helm
 Package manager for kubernetes.
 
+# Free LAB:
+Please feel free to use the lab for your practice and share your feedback with comments and ratings.
+https://killercoda.com/0744d4d1-76b1-4f38-8788-aa233e1bbd76/scenario/helm-how-to
+
 # helm installation procedure for Debian/Ubuntu
 ```
 curl https://baltocdn.com/helm/signing.asc | gpg --dearmor | sudo tee /usr/share/keyrings/helm.gpg > /dev/null
